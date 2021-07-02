@@ -1,0 +1,7 @@
+C:\Users\Carlos\Desktop\ForGit\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+C:\Users\Carlos\Desktop\ForGit\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+C:\Users\Carlos\Desktop\ForGit\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+C:\Users\Carlos\Desktop\ForGit\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\ForGit\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\ForGit\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+C:\Users\Carlos\Desktop\ForGit\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
